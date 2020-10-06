@@ -1,4 +1,4 @@
-# 1FTW4-Github-Homework-1
+# FTW4-Github-Homework-1
 Hi! Here's my first repository out of many more that I will create :D
 
 try try try
